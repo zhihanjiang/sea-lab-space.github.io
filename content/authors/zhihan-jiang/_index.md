@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Visiting PhD Student
+role: Postdoctoral Research Scientist
 
 # Organizations/Affiliations
 organizations:
-  - name: Hong Kong University
+  - name: Columbia University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,7 +32,7 @@ interests:
 education:
   courses:
     - course: PhD
-      institution: Hong Kong University
+      institution: The University of Hong Kong
       year: 2025
     - course: BE
       institution: Xiamen University
@@ -74,4 +74,4 @@ user_groups:
   - Researchers
 ---
 
-Zhihan Jiang received her B.E. and M.E. degrees from Xiamen University in 2018 and 2021, respectively. She is currently pursuing the Ph.D. degree at the University of Hong Kong. Her research interests include Human-Computer Interaction, Data Analytics & Visualization, Ubiquitous Computing, and Mobile Computing, with a focus on developing mobile analytics systems for empowering pervasive healthcare.
+Zhihan Jiang's research lies at the intersection of Human-Computer Interaction (HCI), Data Visualization (VIS), and Ubiquitous Computing (UbiComp), for advancing Health and Well-being. I aim to support deep understanding, effective interaction, and evidence-based decision-making, tailored to both individual needs and broader public behaviors, ultimately shaping more responsive and interpretable interactions that empower individuals and communities. She earned her Ph.D. in Electrical and Electronic Engineering from the University of Hong Kong, and her B.E. and M.E. in Computer Science and Technology from Xiamen University.

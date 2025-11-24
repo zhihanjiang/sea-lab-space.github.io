@@ -34,7 +34,7 @@ education:
     - course: PhD
       institution: The University of Hong Kong
       year: 2025
-    - course: BE
+    - course: ME
       institution: Xiamen University
       year: 2021
     - course: BE

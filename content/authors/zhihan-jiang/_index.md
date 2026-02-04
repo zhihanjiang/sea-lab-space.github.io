@@ -25,9 +25,9 @@ organizations:
 bio: 
 
 interests:
-  - Human-Computer Interaction
-  - Data Visualization
-  - Ubiquitous Computing
+  - Generative AI for Healthcare
+  - Multimodal Health Analytics & Visualization
+  - Actionable Health Intervention
 
 education:
   courses:
@@ -74,4 +74,4 @@ user_groups:
   - Researchers
 ---
 
-Zhihan Jiang's research lies at the intersection of Human-Computer Interaction (HCI), Data Visualization (VIS), and Ubiquitous Computing (UbiComp), for advancing Health and Well-being. I aim to support deep understanding, effective interaction, and evidence-based decision-making, tailored to both individual needs and broader public behaviors, ultimately shaping more responsive and interpretable interactions that empower individuals and communities. She earned her Ph.D. in Electrical and Electronic Engineering from the University of Hong Kong, and her B.E. and M.E. in Computer Science and Technology from Xiamen University.
+I develop AI systems that bridge health sensing and actionable intervention. By integrating generative AI, multimodal data visualization & analysis, and wearable sensing, I help individuals and clinicians turn complex health data into personalized, evidence-based support. My research lies at the intersection of Human-Computer Interaction (HCI), Data Visualization (VIS), and Ubiquitous Computing (UbiComp).

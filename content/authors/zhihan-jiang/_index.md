@@ -74,4 +74,4 @@ user_groups:
   - Researchers
 ---
 
-I develop AI systems that bridge health sensing and actionable intervention. By integrating generative AI, multimodal data visualization & analysis, and wearable sensing, I help individuals and clinicians turn complex health data into personalized, evidence-based support. My research lies at the intersection of Human-Computer Interaction (HCI), Data Visualization (VIS), and Ubiquitous Computing (UbiComp).
+I design and build multimodal AI systems for health sensemaking and actionable intervention. By integrating generative AI, interactive visual analytics, and wearable sensing, I empower individuals and experts to transform heterogeneous health and well-being data into personalized, evidence-based support. My work lies at the intersection of Human-Computer Interaction (HCI), Data Visualization (VIS), and Ubiquitous Computing (UbiComp).
